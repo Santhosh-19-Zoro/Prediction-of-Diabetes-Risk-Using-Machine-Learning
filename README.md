@@ -1,0 +1,1 @@
+This project focuses on predicting whether an individual is at risk of developing diabetes based on demographic information and symptom-based features. Using a dataset from Kaggle, the workflow includes data preprocessing, exploratory data analysis (EDA), model building, hyperparameter tuning, and evaluation.
